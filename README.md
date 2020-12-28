@@ -79,7 +79,7 @@ All of your projects will comprise of a written technical report and a presentat
 - Your presentation slideshow rendered as a .pdf file.
 **NOTE**: Your entire Github repository will be evaluated as your technical report. Make sure that your files and directories are named appropriately, that all necessary files are included, and that no unnecessary or incomplete files are included.
 
-For your first presentation, you'll be presenting to a **non-technical** audience. You should prepare a slideshow with appropriately scaled visuals to complement a compelling narrative. **Presentation duration will differ by market, so check with your local instructor.**
+For your first presentation, you'll be presenting to a **non-technical** audience. You should prepare a slideshow with appropriately scaled visuals to complement a compelling narrative. Presentations should last 5-7min. 
 
 ---
 
@@ -91,7 +91,7 @@ Future projects will require you to decide on the entire structure of your techn
 
 ### Style Guide and Suggested Resources
 
-[Tim Dwyer](https://www.linkedin.com/in/jtimdwyer/) (former DSI student and TA) put together [this style guide](https://git.generalassemb.ly/DSI-US-13/style_guide). Some recommendations are geared toward future projects (which will include modeling and span multiple notebooks), but generally these are great recommendations.
+[Tim Dwyer](https://www.linkedin.com/in/jtimdwyer/) (former DSI student and TA) put together [this style guide](https://git.generalassemb.ly/DSI-R-Metropolis/style-guide). Some recommendations are geared toward future projects (which will include modeling and span multiple notebooks), but generally these are great recommendations.
 
 Here's a link on [how to give a good lightning talk](https://www.semrush.com/blog/16-ways-to-prepare-for-a-lightning-talk/), which provides some good recommendations for short presentations.
 
@@ -111,7 +111,7 @@ Your technical report will be hosted on Github Enterprise. Make sure it includes
 - Presentation slides
 - Any other necessary files (images, etc.)
 
-**Check with your local instructor for how they would like you to submit your repo for review.**
+**Projects are to be submitted via Google Classroom.**
 
 ---
 
